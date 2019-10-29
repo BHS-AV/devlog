@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: BHS AV Devleopment Log
+title: BHS AV Devlopment Log
 
 # Short description of your site
 description: A development log for the Brentwood High School Autonomous Vehicles team.
@@ -20,6 +20,7 @@ description: A development log for the Brentwood High School Autonomous Vehicles
 
 # List of links in the navigation bar
 navbar-links:
+  Home:
   About Me: "aboutme"
   Resources:
 
@@ -65,7 +66,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: false
-  email: "someone@example.com"
+#  email: "someone@example.com"
 #  facebook: deanattali
   github: bhs-av
 #  twitter: daattali

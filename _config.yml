@@ -20,9 +20,10 @@ description: A development log for the Brentwood High School Autonomous Vehicles
 
 # List of links in the navigation bar
 navbar-links:
-  Home:
+  Home: ""
   About Me: "aboutme"
   Resources:
+    - Tag Index: "tags"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar

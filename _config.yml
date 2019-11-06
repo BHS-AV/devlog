@@ -21,7 +21,7 @@ description: A development log for the Brentwood High School Autonomous Vehicles
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  About Me: "aboutme"
+  About Us: "aboutme"
   Resources:
     - Tag Index: "tags"
 

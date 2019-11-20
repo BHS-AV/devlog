@@ -4,7 +4,6 @@ title: Introduction and Goals
 tags: [intro]
 comments: false
 ---
-# Introduction
 We are the Brentwood High School Autonomous Vehicles team, a group of four seniors that explore the field of autonomous vehicles.
 
 Our project originally began in August 2018, and over the past year and a half we worked to decode the realm of autonomous vehicles, from understanding the algorithms that power them, to their control schemes. We hope to use our conceptual understanding to create a custom implementation of an autonomous vehicle in a scale car.

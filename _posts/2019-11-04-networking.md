@@ -6,7 +6,6 @@ gh-repo: bhs-av/software
 tags: [networking]
 comments: false
 ---
-# Overview
 For our car to function properly it is important that we develop connections to the car as well as allow the car to connect to the internet. The car needs to connect to the internet in order to get updates and software while also connecting to a local computer so that it can be controlled.
 
 # Old Configuration

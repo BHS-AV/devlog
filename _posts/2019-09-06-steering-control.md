@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Steering Control
-subtitle: Using an Arduino Nano for steering control
+subtitle: Controlling our steering servo with an Arduino
 gh-repo: bhs-av/software
 tags: [control]
 comments: false

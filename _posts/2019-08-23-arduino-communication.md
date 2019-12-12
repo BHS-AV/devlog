@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Arduino Communication
+title: Communicating with the Arduino
+subtitle: Our foundation for Arduino data communication
 tags: [control]
 comments: false
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: X11 Forwarding
-subtitle: Improving quality of life access to Jetson.
+subtitle: Remote access to Jetson.
 gh-repo: bhs-av/software
 tags: [networking]
 comments: false

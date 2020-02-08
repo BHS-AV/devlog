@@ -70,7 +70,6 @@ From there we want to check if the character matches one of the commands listed 
 ```c
 if (Serial.available() > 2) {
 
-
     char instruction = Serial.read();
     unsigned int argument = parseBytes();
 
@@ -123,7 +122,6 @@ class Servo:
 
     @staticmethod
     def build_packet(write_type, value) -> bytes:
-
 
         packet = bytes([ord(write_type), lowByte, highByte])
         return packet

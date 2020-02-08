@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jetson Network Configuration
+title: Network Configuration
 subtitle: Connecting our car
 gh-repo: bhs-av/software
 tags: [networking]

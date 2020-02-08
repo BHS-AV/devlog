@@ -101,8 +101,8 @@ Traxxas::Traxxas(int Pin, int Throttle, int Delta, int Value, int Goal) {
   int delta;
   int value;
   int goal;
-
 }
+
 Traxxas::~Traxxas() {
 
 }
@@ -110,13 +110,11 @@ Traxxas::~Traxxas() {
 void Traxxas::refresh() {
     // Smoothing Algorithm
     serv.write(value);
-
 }
 
 void Traxxas::startup() {
     // Attatching the arduino to a pin.
     serv.attach(pin);
-
 }
 
 
@@ -134,8 +132,6 @@ void Traxxas::setDelta( unsigned int value) {
 unsigned int Traxxas::readPhysical() {
 
   return serv.readMicroseconds();
-
-
 }
 ```
 
